@@ -1,0 +1,13 @@
+#数据库类型:1为MYSQL,默认为1
+DBType=1
+#MySql 数据库连接信息
+#MySql 数据库驱动程序
+MySQLDriver=org.gjt.mm.mysql.Driver
+
+#MySql 数据库连接字符串
+#127.0.0.1:3306 为数据库地址和接口
+#webDB为数据库名，user为登录用户名,password为登录密码。请自行更改
+MySQLURL=jdbc:mysql://127.0.0.1:3306/webDB?user=root&password=hnzj@183&useUnicode=true&characterEncoding=UTF-8
+
+
+#您还可以继续添加其他的数据库
